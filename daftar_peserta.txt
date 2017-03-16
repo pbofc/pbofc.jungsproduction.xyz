@@ -1,1 +1,18 @@
-Coming soon
+Example
+=========
+Nama team: 
+Player 1: 
+Player 2: 
+Player 3: 
+Player 4: 
+Player 5: 
+Player Cad: 
+
+1.
+Nama team: Mrs4
+Player 1: Mrs_FADIAH_15
+Player 2: Mrs_KANGALUS_69
+Player 3: Mrs_HARAHIHI_62
+Player 4: Mrs_ValenciaP_26
+Player 5: Mrs_VenomEXT_11
+Player Cad: Mrs_Veoblers_22

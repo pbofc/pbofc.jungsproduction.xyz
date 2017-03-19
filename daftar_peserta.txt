@@ -118,11 +118,11 @@ Player Cad:
 
 13.
 Nama team: Mixtheofamily
-Player 1: iDezHORIZON
-Player 2: B21anM2B_13LINK 
-Player 3: RGTBeukiDUWitch_
-Player 4: OmFariusRGT179 
-Player 5:  iRottMayyerWitch
+Player 1: RGTBeukiDUWitch_
+Player 2: OmFarlusRGT179 
+Player 3: iRottMayyerWitch
+Player 4: GlLAK87UNF_ 
+Player 5:  IGPsychopath
 Player Cad: ReresM2B_13LINK 
 
 14.
@@ -239,7 +239,7 @@ Player 1: PROTA_C0rddNEO1X
 Player 2: PROTA_asLanNEO1X
 Player 3: PROTA_TcaptNEO1X
 Player 4: PROTA_BroerNEO1X
-Player 5: PROTA_iRageNEO1X
+Player 5: NvSLDjevojKaAF
 Player Cad: GodWinGame_2K
 
 27.
@@ -263,10 +263,10 @@ Player Cad: Ipin-
 29.
 Nama team: OfficialSOAPERS
 Player 1: SOAPERS_OmSANSSS
-Player 2: SOAPERS_OmPedro
+Player 2: SOAPDoeLzDFW197_
 Player 3: SOAPERS_RayJBR
 Player 4: SOAPYehezVRz
-Player 5: SOAPSlyteriNeVRz
+Player 5: SOAPFiaRzDFW197_
 Player Cad: MrSOAPKING
 
 30.

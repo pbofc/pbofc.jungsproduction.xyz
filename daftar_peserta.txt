@@ -66,7 +66,7 @@ Player Cad:
 Nama team: NATF9
 Player 1: SOG7_DidaCROOT
 Player 2: WibyNATF9_TRT
-Player 3: SOG7_ShavieraCROOT
+Player 3: SOG7_ShvraCROOT
 Player 4: ExodusVenomM8JKT
 Player 5: aH_HikariCF69JKT
 Player Cad: EzTW_Ensduy2nD

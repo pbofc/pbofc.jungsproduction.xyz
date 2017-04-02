@@ -1,4 +1,4 @@
-Example
+.Example
 =========
 Nama team: 
 Player 1: 
@@ -9,33 +9,6 @@ Player 5:
 Player Cad: 
 
 1.
-Nama team: Mrs4
-Player 1: Mrs_FADIAH_15
-Player 2: Mrs_Veoblers_22
-Player 3: Mrs_HARAHIHI_62
-Player 4: Mrs_ValenciaP_26
-Player 5: Mrs_VenomEXT_11
-Player Cad: Az_47thLarMelarZ
-
-2.
-Nama Team: LastGuardian
-Player 1: LG_Shukuchi
-Player 2: LG_CHRONOSPHERE
-player 3: LG_ReiMizuna
-Player 4: LG_HyperBeast
-Player 5: LG_Edenzel
-Player Cad: LG_Exorcist
-
-3.
-Nama team: EZPzOVGODS
-Player 1: EZPzOVGODSfaith
-Player 2: EZPzOVGODSbawsky
-Player 3: EZPzOVGODSSignum
-Player 4: EZPzOVGODSClown
-Player 5: EZPzOVGODSVigour
-Player Cad: 
-
-4.
 Nama team: H2H KASKUS
 Player 1: JinXRendehhhJF
 Player 2: H2HAbslom_Ksk
@@ -44,8 +17,8 @@ Player 4: H2HYoRHa_Ksk
 Player 5: H2HFLuFFy_Ksk
 Player Cad: H2HiNari_Ksk
 
-5.
-Nama team: ValarWicked
+2.
+.Nama team: ValarWicked
 Player 1: ValarSYLRWKCD
 Player 2: ValarDGlWCKD
 Player 3: ValarRYLWCKD
@@ -53,7 +26,7 @@ Player 4: ValarTravWCKD
 Player 5: ValarCleoWCKD
 Player Cad: ValarAsyamWCKD
 
-6.
+3.
 Nama team: WP4H
 Player 1: WP4HgiVxLER_SANS
 Player 2: WP4HKideeeee_ToM 
@@ -62,16 +35,7 @@ Player 4: baLeeCiERVO_WR9
 Player 5: WP4HaIieeF_SANS
 Player Cad: 
 
-7.
-Nama team: NATF9
-Player 1: SOG7_DidaCROOT
-Player 2: WibyNATF9_TRT
-Player 3: SOG7_ShvraCROOT
-Player 4: ExodusVenomM8JKT
-Player 5: aH_HikariCF69JKT
-Player Cad: EzTW_Ensduy2nD
-
-8.
+4.
 Nama team: Flawless389_
 Player 1: TAM389
 Player 2: gFbRainFreEze_
@@ -80,7 +44,7 @@ Player 4: LEGEND389
 Player 5: Wyvern389_
 Player Cad: MKMNhLpRVS389_
 
-9.
+5.
 Nama team: MeXiouS_
 Player 1: SOSDVUl12_MXS
 Player 2: SOSPanDa_MXS
@@ -89,43 +53,32 @@ Player 4: SOSwaz0wsKi_MXS
 Player 5: SOSb1LLmaX_MXS
 Player Cad: 
 
-10.
+6.
 Nama team: BerryPop16K
-Player 1: MikeWazowskiCB
-Player 2: ZirkleOne
+Player 1: MikeWazowskiCBPlayer 2: ZirkleOne
 Player 3: M8_STIVEN_CB
 Player 4: Dvva_13
 Player 5: _ADSKHANOF86ESW
 Player Cad: 
 
-11.
+7.
 Nama team: FLy ATX21
 Player 1: FLyDeadalosATX21
-Player 2: FLyVedroooATX21
-Player 3: FLyXaveriusATX21
+Player 2: FLyVedroooATX21Player 3: FLyXaveriusATX21
 Player 4: FLyZOUKENRzATX21
 Player 5: FLyoungNyuATX21
 Player Cad: 
 GLN_UtunAKB48
-12.
+
+8.
 Nama team: C6AVG
 Player 1: C6Baizanga_AVG
 Player 2: ASLMrCUTOOO69
 Player 3: C6JARRRRRRJR_AVG
-Player 4: C6MeFromSB_AVG
-Player 5: C6COOOOOK_AVG
+Player 4: C6MeFromSB_AVGPlayer 5: C6COOOOOK_AVG
 Player Cad: 
-
-13.
-Nama team: Mixtheofamily
-Player 1: RGTBeukiDUWitch_
-Player 2: OmFariusRGT179 
-Player 3: iRottMayyerWitch
-Player 4: GlLAK87UNF_ 
-Player 5:  IGPsychopath
-Player Cad: ReresM2B_13LINK 
-
-14.
+ 
+9.
 Nama team: PBGL
 Player 1: PBGL_ChamsFred15
 Player 2: PBGL_Sul15RMG
@@ -134,16 +87,7 @@ Player 4: Agzamunich
 Player 5: PBGL_Bule69ambut
 Player Cad: 
 
-15.
-Nama team: NT2L_
-Player 1: LuciferFLMS216_
-Player 2: EstrFLMS216_
-Player 3: FakerFLMS216_
-Player 4: MitchDev69NWNC_
-Player 5: VLSIabiGhail369_
-Player Cad:
-
-16.
+10.
 Nama team: Hunter Naughty Mind 
 Player 1: MvP_NaHFlHnM
 Player 2: zlONEl_VenomArmy
@@ -152,34 +96,7 @@ Player 4: GLN_UtunAKB48
 Player 5: zlONEl_BRACUNRSR
 Player Cad: 
 
-17.
-Nama team: NeoGenesis17
-Player 1: NeolGl_Apollo19
-Player 2: NeolGl_Zeus
-Player 3: NeolGl_Posseidon
-Player 4: NeolGl_AresSam17
-Player 5: NeolGl_Aphrodite
-Player Cad: NeolGl_Hefaistos
-
-18.
-Nama team: TEAM DRLZ 198
-Player 1: jesterzDRLZ_198
-Player 2: FamousDRLZ_198
-Player 3: MythDRLZ_198
-Player 4: BabyBearDRLZ_198
-Player 5: LysndRDRLZ_198
-Player Cad: C2W198FroZen
-
-19.
-Nama team: SURVIVOR272
-Player 1: etrNal_SvR272COK
-Player 2: PiRaTE_SvR272COK
-Player 3: HyDra_SvR272COK
-Player 4: Prince_SvR272COK
-Player 5: NaMira_SvR272COK
-Player Cad: 
-
-20.
+11.
 Nama team: Klasik All STARS
 Player 1: HBT4FeitCALF_
 Player 2: F1refly
@@ -188,16 +105,7 @@ Player 4: HBTBosCALF_
 Player 5: hnslflh
 Player Cad:
 
-21.
-Nama team: TSNYsGNTNG
-Player 1: _APINKRESTARA_
-Player 2: SADES217CRAFTYk7
-Player 3: SADES217CRAFTYeX
-Player 4: 1HGFbLvdMOM_M0B
-Player 5: JEVRtsnyF1R3AOG_
-Player Cad: JEVRstyKingAOG_
-
-22.
+12.
 Nama team: BAYU SITENG RvRGC_
 Player 1: RhodesW2SF_RvR
 Player 2: TigoVielW2SF_RvR
@@ -206,34 +114,7 @@ Player 4: AizenthW2SF_RvR
 Player 5: EmptyW2SF_RvR
 Player Cad: MidNightRvRGC_
 
-23.
-Nama team: Team Special FORCE7
-Player 1: NMrMozArtSF7eam
-Player 2: NMrFahrulSF7eam
-Player 3: NMrDsTinctSF7eam
-Player 4: NMrSaintSF7eam
-Player 5: NMrELvNdSF7eam
-Player Cad: 
-
-24.
-Nama team: TeamRedBaretR.
-Player 1: MOG_HazardousRBR
-Player 2: MOG_LXFarzRBR
-Player 3: MOG_PhantomRBR
-Player 4: MOG_ExoticRBR
-Player 5: MOG_iiMOZARDiiRBR
-Player Cad: MOG_CommanderRBR
-
-25.
-Nama team: WHO
-Player 1: xXWhoGhostXx
-Player 2: xXWhoZwolfXx
-Player 3: xXWhoMiyabiXx
-Player 4: PredatorFNVG
-Player 5: -xXWhoAmIXx-
-Player Cad: SOAP1BaymaxFrz_
-
-26.
+13.
 Nama team: NEO1X
 Player 1: PROTA_C0rddNEO1X
 Player 2: PROTA_asLanNEO1X
@@ -242,25 +123,7 @@ Player 4: PROTA_BroerNEO1X
 Player 5: NvSLDjevojKaAF
 Player Cad: GodWinGame_2K
 
-27.
-Nama team: RpM Amateur
-Player 1: RpM_Apocalypse
-Player 2: RpM_MaximusPRIME
-Player 3: RpM_Florensia
-Player 4: 420_LcYoungZipur
-Player 5: Memed787FRz
-Player Cad: WITRAAAAAAAAAAA
-
-28.
-Nama team: Exact
-Player 1: FMSDonggoID
-Player 2: FMSPrinceID
-Player 3: R_Satria
-Player 4: Yerinnn
-Player 5: RxZIIVectorIIRxZ
-Player Cad: Ipin-
-
-29.
+14.
 Nama team: OfficialSOAPERS
 Player 1: SOAPERS_OmSANSSS
 Player 2: SOAPDoeLzDFW197_
@@ -269,7 +132,7 @@ Player 4: SOAPYehezVRz
 Player 5: SOAPFiaRzDFW197_
 Player Cad: MrSOAPKING
 
-30.
+15.
 Nama team: 5 Dangerous Army
 Player 1: GOG_Kus_Kit
 Player 2: 5DAExotic_BRT
@@ -278,16 +141,7 @@ Player 4: MFnoBrainD_BRT
 Player 5: RITZR0SCKA37TOk
 Player Cad: BROTHER_S3XTReaM
 
-31.
-Nama team: M1LF666
-Player 1: KASKUS_L1viaM1LF
-Player 2: KASKUS_UnaM1LF
-Player 3: KASKUS_VinaaM1LF
-Player 4: KASKUS_M1ILaM1LF
-Player 5: KASKUS_KiranM1LF
-Player Cad: KASKUS_AsakoM1LF
-
-32.
+16.
 Nama team: PANGERAN ARAB
 Player 1: NF2D389PASSION
 Player 2: R1ZCORD_ThMARINE
